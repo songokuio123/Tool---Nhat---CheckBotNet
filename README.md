@@ -17,11 +17,11 @@
 </div>
 
 ## 📌 GIỚI THIỆU VỀ CHECKBOTNET
-**CheckBotNet** không chỉ là một công cụ, đó là "cánh tay phải" cho những người làm dịch vụ MMO. Giúp bạn quét, lọc và quản lý hệ thống tài khoản một cách thông minh nhất.
+**CheckBotNet** không chỉ là một công cụ, đó là "cánh tay phải" cho những người làm dịch vụ MMO. Giúp bạn quét, lọc và quản lý hệ thống một cách thông minh nhất.
 
-* 🔍 **Quét Bot Siêu Tốc:** Phân loại acc thật - acc ảo trong tích tắc.
-* 🧹 **Dọn Dẹp Hệ Thống:** Tối ưu hóa tệp khách hàng, loại bỏ rác hệ thống.
-* ⚡ **Hiệu Suất Cao:** Hoạt động mượt mà, không gây die tài khoản.
+* ⚡ **Check File Thần Tốc:** Chỉ cần nạp file, hệ thống tự động quét và trả kết quả trong tích tắc.
+* 🎯 **Lọc Acc Thông Minh:** Phân loại chính xác acc thật - acc ảo, giúp tối ưu tệp dữ liệu MMO.
+* 🚀 **Hiệu Suất Vượt Trội:** Hoạt động mượt mà, đảm bảo an toàn, không lo die tài khoản.
 
 ---
 
