@@ -1,15 +1,18 @@
 <div align="center">
 
-# 🛡️ TOOL - NHAT - CHECKBOTNET 🛡️
-### 🚀 Hệ Sinh Thái Dịch Vụ Mạng Xã Hội Chuyên Nghiệp - [buffgiare.vn](https://buffgiare.vn)
+# 🚀 DỊCH VỤ MẠNG XÃ HỘI & TOOL CHECKBOTNET 🛡️
+### 🌐 Hệ Sinh Thái Chuyên Nghiệp Tại [buffgiare.vn](https://buffgiare.vn)
 
-[![Facebook](https://img.shields.io/badge/Facebook-Support-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://buffgiare.vn)
-[![TikTok](https://img.shields.io/badge/TikTok-Support-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://buffgiare.vn)
-[![Instagram](https://img.shields.io/badge/Instagram-Support-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://buffgiare.vn)
+<br>
+
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://buffgiare.vn)
+[![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://buffgiare.vn)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://buffgiare.vn)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://buffgiare.vn)
 
 ---
 
-**"Giải pháp toàn diện cho tài khoản cổ, bảo mật và tăng trưởng thương hiệu cá nhân."**
+**"Sự kết hợp hoàn hảo giữa công cụ tự động hóa và dịch vụ tăng trưởng mạng xã hội uy tín."**
 
 </div>
 
